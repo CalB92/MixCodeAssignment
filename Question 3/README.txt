@@ -1,0 +1,1 @@
+The code in this folder was written for a project called BioDX. It employed an ATMEGA2560 microcontroller, stepper motor, LEDs, and temperature sensor.
